@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PlanFlow — Modern Agile Project Management Utility
 
 > A clean, responsive, beginner-friendly web application for managing agile sprints, task workflows, milestones, and team deliverables without enterprise clutter.
@@ -197,3 +198,7 @@ PlanFlow is thoroughly tested with **Vitest** and **React Testing Library**:
 ## 📄 License
 
 MIT License — Feel free to use and modify for personal and commercial projects.
+=======
+# PlanFlow_PM_Tool
+PlanFlow is a streamlined, client-side project management web application created to eliminate enterprise bloat, account setup friction, and slow load times. Built from scratch with React 19, TypeScript, Tailwind CSS v4, and Vite, it delivers a lightning-fast agile environment that runs directly in the browser with full local persistence.
+>>>>>>> df7e7fb8f383f44e4be5e04ba9d2d9522fb26daa
